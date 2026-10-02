@@ -303,3 +303,34 @@ cython_debug/
 # *.ipynb
 #
 # We want AgentWriter AI notebooks to be tracked by Git.
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+agentwriter/
+venv/
+.venv/
+
+# Generated AgentWriter content
+outputs/
+images/
+
+# Generated notebook images
+notebooks/images/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated markdown articles
+notebooks/*.md
