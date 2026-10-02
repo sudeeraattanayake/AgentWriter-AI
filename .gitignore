@@ -334,3 +334,6 @@ Thumbs.db
 
 # Generated markdown articles
 notebooks/*.md
+
+# Generated root article
+langgraph_subgraphs_a_practical_multi-agent_example.md
