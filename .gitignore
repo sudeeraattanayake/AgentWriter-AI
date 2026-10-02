@@ -216,3 +216,71 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# AgentWriter AI - .gitignore
+# ==========================================
+
+# Environment variables / API keys
+.env
+.env.*
+!.env.example
+
+# Virtual environment
+agentwriter/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.so
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Database / local data
+*.db
+*.sqlite
+*.sqlite3
+data/
+checkpoints/
+
+# PostgreSQL local files
+postgres-data/
+
+# Generated images
+generated_images/
+outputs/
+
+# Logs
+*.log
+logs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
