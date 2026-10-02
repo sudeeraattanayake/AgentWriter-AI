@@ -1413,7 +1413,7 @@ Research, orchestration, workers, reducer logic, image generation, persistence, 
 
 **AgentWriter AI — Real-Time Multi-Agent Technical Content Generation Platform**
 
-> Add your final GitHub repository URL here if the repository slug differs from `https://github.com/sudeeraattanayake/AgentWriter-AI`.
+> Add your final GitHub repository URL here if the repository slug differs from https://github.com/sudeeraattanayake/AgentWriter-AI.
 
 ---
 
@@ -1423,7 +1423,7 @@ Research, orchestration, workers, reducer logic, image generation, persistence, 
 
 Generative AI | LLM Applications | AI Agents | Python
 
-**GitHub:** `https://github.com/sudeeraattanayake`
+**GitHub:** https://github.com/sudeeraattanayake
 
 ---
 
